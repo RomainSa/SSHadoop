@@ -2,7 +2,7 @@ SSHadoop
 ========
 
 ### What is SSHadoop? 
-SSHadoop is a distributed wordcount application inspired by a 2004 Google research paper and 
+SSHadoop is a distributed wordcount Java application inspired by a 2004 Google research paper and 
 the MapReduce environment but using SSH to communicate between nodes. 
 
 
